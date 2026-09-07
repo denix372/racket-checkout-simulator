@@ -1,0 +1,5 @@
+- Fișierul de lucru este etapa1.rkt.
+
+- Pentru testare, rulați codul din checker.rkt. Nu este permis să modificați acest fișier.
+
+- Este esențial să vă treceți în repartizarea la laborator pentru a determina automat ziua în care aveți deadline la temă. Posibilitatea de a edita repartizarea va expira în curând.
